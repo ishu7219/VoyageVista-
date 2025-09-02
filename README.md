@@ -22,6 +22,9 @@ VoyageVista is a modern **MERN stack tour and travel booking website** where use
 ---
 
 ## 📂 Project Structure
+
+```
+
 VoyageVista/
 ├── backend/              # Node.js + Express server (API, DB connections, auth, etc.)
 │   ├── models/           # Database models (e.g., Tour, User, Booking)
@@ -42,12 +45,15 @@ VoyageVista/
 │
 ├── README.md             # Project documentation
 └── package.json          # Root dependencies (if using workspace / monorepo setup)
-
+```
 
 
 
 
 ---
+
+
+
 
 ## 🛠️ Getting Started  
 
