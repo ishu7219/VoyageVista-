@@ -6,7 +6,7 @@ import { BASE_URL } from "../../utils/config";
 
 const FeaturedTourList = () => {
   const { data: featuredTours, loading, error } = useFetch(
-    "http://localhost:8000/api/v1/tours/search/getFeaturedTour"
+    `${BASE_URL}/tours/search/getFeaturedTour`
   );
 
   return (
@@ -16,13 +16,12 @@ const FeaturedTourList = () => {
       {!loading &&
         !error &&
         featuredTours?.slice(0, 8).map((tour) => (
-          <Col lg="3" md="6" sm="6" className="mb-4"  key={tour._id}>
+          <Col lg="3" md="6" sm="6" className="mb-4" key={tour._id}>
             <TourCard tour={tour} />
           </Col>
         ))}
     </Row>
   );
 };
-
 
 export default FeaturedTourList;
