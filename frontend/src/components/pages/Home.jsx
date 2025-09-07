@@ -103,10 +103,10 @@ const Home = () => {
                 With our all experince <br/> we will serve you
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, conseectetur adipisicing elit.
+                Guided by experience, we craft trips that truly matter.
                 <br/>
-                Quas aliquam,hic tempora inventore suscipit unde. 
-              </p>
+                Every detail is planned for your comfort and joy. 
+            </p>
             </div>
             <div className="counter_wrapper d-flex align-items-center gap-5">
               <div className="counter_box">
