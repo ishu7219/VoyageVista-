@@ -3,6 +3,10 @@
 VoyageVista is a modern **MERN stack tour and travel booking website** where users can explore destinations, view featured tours, check ratings, and book their dream journey with ease.  
 
 ---
+## 📸 Demo (Screenshots)  
+[Watch Demo Video](https://github.com/username/repo-name/blob/main/demo.mp4)
+
+---
 
 ## ✨ Features  
 - 🏝️ Explore a wide range of **tours and destinations**  
@@ -12,9 +16,7 @@ VoyageVista is a modern **MERN stack tour and travel booking website** where use
 - ⚡ Built with **React + Node.js + Express + MongoDB**  
 
 ---
-## 📸 Demo (Screenshots)  
-_Add screenshots of Homepage, Tour Details, and Booking pages here._  
----
+
 
 ## 🚀 Tech Stack  
 - **Frontend**: React.js, Reactstrap, CSS  
