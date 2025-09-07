@@ -13,17 +13,17 @@ const servicesData =[
     {
         imgUrl :weatherImg,
         title:"Calculate Weather",
-        desc: "lorem ipsum dolor sit amet ,consectetur adipisicing elit.",
+        desc: "Get real-time weather updates for your travel destination and plan your journey with confidence.",
     },
     {
         imgUrl :guideImg,
         title:"Best Tour Guide",
-        desc: "lorem ipsum dolor sit amet ,consectetur adipisicing elit.",
+        desc: "Explore new places with experienced guides who make your trips safe, fun, and memorable.",
     },
     {
         imgUrl :customizationImg,
         title:"Customization",
-        desc: "lorem ipsum dolor sit amet ,consectetur adipisicing elit.",
+        desc: "Tailor your travel experience with flexible plans designed just for your needs and preferences.",
     },
 ];
 
