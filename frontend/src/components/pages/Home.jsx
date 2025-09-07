@@ -38,10 +38,7 @@ const Home = () => {
                   <span className="highlight"> memories</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Explicabo consequuntur non officia sequi voluptatem.
-                  Voluptates quo unde voluptas quod, excepturi, molestiae ea
-                  laudantium ullam, fugit ipsam eos cum cupiditate delectus!
+                  "Discover breathtaking destinations and unique experiences that stay with you forever. From historic landmarks to hidden natural wonders, every journey brings new adventures. Whether you’re exploring vibrant cities or peaceful escapes, traveling connects you to cultures, people, and unforgettable memories."
                 </p>
               </div>
             </Col>
