@@ -26,7 +26,7 @@ const Footer = () => {
         <Col lg="3">
           <div className="logo">
             <img src={logo} alt="logo" />
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, enim.</p>
+            <p>Your trusted partner in creating unforgettable travel experiences.</p>
             <div className="social_links">
               <span>
                 <Link to="#"><i className="ri-youtube-line"></i></Link>
