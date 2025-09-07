@@ -4,7 +4,8 @@ VoyageVista is a modern **MERN stack tour and travel booking website** where use
 
 ---
 ## 📸 Demo (Screenshots)  
-[Watch Demo Video](https://github.com/username/repo-name/blob/main/demo.mp4)
+<video src=" Screenshot (489).png" controls width="600"></video>
+
 
 ---
 
