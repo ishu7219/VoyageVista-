@@ -23,7 +23,7 @@ const servicesData =[
     {
         imgUrl :customizationImg,
         title:"Customization",
-        desc: "Tailor your travel experience with flexible plans designed just for your needs and preferences.",
+        desc: "Design unique journeys with tailored plans created to suit your personal interests, comfort, and budget",
     },
 ];
 
